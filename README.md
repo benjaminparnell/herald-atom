@@ -4,7 +4,7 @@ This is a theme for atom editor inspired by the [herald theme for vim](http://ww
 
 **This is a work in progress, and is likely to change**
 
-![Screenshot](https://www.dropbox.com/s/m0il766sajm55mi/Screenshot%202015-02-28%2012.21.09.png?dl=0)
+![Screenshot](preview.png)
 
 ## Credits
 
