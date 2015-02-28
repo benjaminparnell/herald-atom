@@ -1,7 +1,7 @@
 {
   "name": "herald-atom",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An atom theme inspired by vim's herald theme",
   "repository": "https://github.com/benjaminparnell/herald-atom",
   "author": "Benjamin Parnell",
